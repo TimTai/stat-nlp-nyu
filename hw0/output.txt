@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Lin-Yu
+   last: Tai
+email: lyt230@nyu.edu
+leaderboard: lapy110
