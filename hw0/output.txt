@@ -4,4 +4,3 @@ name:
    last: Tai
 email: lyt230@nyu.edu
 leaderboard: lapy110
-rnfierfii
